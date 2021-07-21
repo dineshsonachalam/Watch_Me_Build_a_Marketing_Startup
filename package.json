@@ -41,7 +41,7 @@
     "jwt-passport": "^0.0.5",
     "knex": "^0.16.3",
     "load-script": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "moment-timezone": "^0.5.23",
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",
